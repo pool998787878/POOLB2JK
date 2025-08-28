@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/POOLB2JK" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pooljdk/pradockass" vcs="Git" />
   </component>
 </project>
